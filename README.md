@@ -44,3 +44,22 @@ To start the game, use the following command:
 
 ```bash
 python3 main.py <algo_name>
+### Valid Algorithm Names:
+- `bfs`
+- `dfs`
+- `astar`
+- `monte_carlo`
+- `random`
+
+## Project Overview
+
+This project is developed as part of the **CSC-520 Artificial Intelligence** course at North Carolina State University for Spring 2024. The game implements various AI algorithms to automate the moves of the goats in the traditional Bagh Bandi game.
+
+## Contributors
+
+The project is brought to you by:
+
+- **Uchswas Paul**
+- **Fardin Saad**
+- **Adittya Soukarjya Saha**
+- **Vinay Vobbilichetty**
