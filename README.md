@@ -44,7 +44,7 @@ To start the game, use the following command:
 
 ```bash
 python3 main.py <algo_name>
-    ```
+```
 ### Valid Algorithm Names:
 - `bfs`
 - `dfs`
